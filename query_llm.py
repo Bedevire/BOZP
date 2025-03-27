@@ -1,16 +1,23 @@
 import requests
 
 
-def get_llm_response(query: str):
-    url = f'http://localhost:11434/api/generate'
+class Query_LLM:
 
-    payload = {
-        "model": "llama3.2:latest",
-        "prompt": query,
-        "stream": False
-    }
+    def __init__(self, url: str) -> None:
+        self.url = url
 
-    response = requests.post(url, json=payload)
-    print(response.json()["response"])
+    def get_llm_response(self, query: str):
+        url = f'http://localhost:11434/api/generate'
 
-get_llm_response("What is Sora?")
+        payload = {
+            "model": "llama3.2:latest",
+            "prompt": query,
+            "stream": False
+        }
+
+        response = requests.post(url, json=payload)
+        answer = response.json()["response"]
+        print(answer)
+
+        return answer
+
