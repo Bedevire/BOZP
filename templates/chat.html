@@ -1,0 +1,17 @@
+<head>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/main.js') }}" defer></script>
+</head>
+
+<body>
+    <h1>This is an LLM chat</h1>
+
+    <div>
+        <h3>Discussion</h3>
+        <p id="parResponse"></p>
+    </div>
+
+    <div>
+        <input type="text" id="txtQuery" name="query" />
+        <button type="button" id="btnSend" onclick="sendQuery()" >Send 3</button>
+    </div>
+</body>
