@@ -1,13 +1,13 @@
 import requests
 
 
-class Query_LLM:
+class   Query_LLM:
 
     def __init__(self, url: str) -> None:
         self.url = url
 
     def get_llm_response(self, query: str):
-        url = f'http://localhost:11434/api/generate'
+        url = 'http://localhost:11434/api/generate'
 
         payload = {
             "model": "llama3.2:latest",
