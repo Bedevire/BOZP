@@ -3,6 +3,8 @@ import requests
 
 class   Query_LLM:
 
+    TEST_QUERY = "Vytvor mi testovacích 10 otázok ohľadom BOZP. Ku každej vytvor 4 odpovede, pričom len jedna z nich bude správna. Použi Slovenčinu."
+
     def __init__(self, url: str) -> None:
         self.url = url
 
@@ -10,7 +12,7 @@ class   Query_LLM:
         url = 'http://localhost:11434/api/generate'
 
         payload = {
-            "model": "llama3.2:latest",
+            "model": "jobautomation/OpenEuroLLM-Slovak:latest",
             "prompt": query,
             "stream": False
         }

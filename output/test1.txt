@@ -1,0 +1,85 @@
+RAG llm response is ## Test BOZP – 10 Otázok
+
+Tu je 10 otázok s 4 možnými odpoveďami, pričom len jedna je správna.
+
+**1. Čo je hlavným cieľom BOZP (Bezpečnosť a Ochrana Zdravia pri Práci)?**
+   a) Zníženie nákladov na zdravotné poistenie
+   b) Zabezpečenie bezpečného a zdravého pracovného prostredia pre všetkých pracovníkov
+   c) Zvýšenie produkcie a ziskov firmy
+   d) Zjednodušenie procesov vo firme
+
+**Správna odpoveď: b) Zabezpečenie bezpečného a zdravého pracovného prostredia pre všetkých pracovníkov**
+
+**2. Kto je zodpovedný za BOZP vo firme?**
+   a) Len zamestnávateľ
+   b) Len zamestnanci
+   c) Zamestnávateľ, vedenie, bezpečnostný manažér a všetci zamestnanci
+   d) Len štátna inšpekcia práce
+
+**Správna odpoveď: c) Zamestnávateľ, vedenie, bezpečnostný manažér a všetci zamestnanci**
+
+**3. Aký je účel pravidelných školení BOZP?**
+   a) Zábava pre zamestnancov
+   b) Získanie certifikátu o absolvovaní školenia
+   c) Zvýšenie povedomia o rizikách a postupoch bezpečnosti
+   d) Zníženie počtu zamestnancov
+
+**Správna odpoveď: c) Zvýšenie povedomia o rizikách a postupoch bezpečnosti**
+
+**4. Čo by ste mali urobiť, ak si všimnete nebezpečenstvo na pracovisku?**
+   a) Ignorovať to, veď niekto sa o to postará
+   b) O tom hovoriť len s kolegami
+   c) Nahlásiť to nadriadenému alebo bezpečnostnému manažérovi
+   d) Pokúsiť sa to nebezpečenstvo odstrániť sám, bez ohlásenia
+
+**Správna odpoveď: c) Nahlásiť to nadriadenému alebo bezpečnostnému manažérovi**
+
+**5. Aký je účel ochranných pomôcok (PPE)?**
+   a) Zlepšiť vzhľad zamestnanca
+   b) Minimalizovať riziko zranenia a ochorenia
+   c) Znížiť náklady na zdravotnú starostlivosť
+   d) Zvýšiť produktivitu práce
+
+**Správna odpoveď: b) Minimalizovať riziko zranenia a ochorenia**
+
+**6. Čo znamená pojem "ergonómia" v kontexte BOZP?**
+   a) Štúdium chovania zvierat na pracovisku
+   b) Vzťah medzi človekom a jeho pracovným prostredím, s cieľom optimalizovať efektivitu a zdravie
+   c) Nový typ bezpečnostnej technológie
+   d) Školenie o zdravom stravovaní
+
+**Správna odpoveď: b) Vzťah medzi človekom a jeho pracovným prostredím, s cieľom optimalizovať efektivitu a zdravie**
+
+**7. Aké informácie by mali byť zahrnuté v bezpečnostnom liste (SDS)?**
+   a) Len informácie o cenách produktov
+   b) Informácie o nebezpečenstvách látky, opatrenia prvej pomoci, manipulácia a skladovanie
+   c) Len informácie o reklamných kampaniach
+   d) Informácie o počte zamestnancov vo firme
+
+**Správna odpoveď: b) Informácie o nebezpečenstvách látky, opatrenia prvej pomoci, manipulácia a skladovanie**
+
+**8. Aký je správny postup pri požari?**
+   a) Skryť sa a čakať na pomoc
+   b) Začať hasiť sám, bez ohľadu na riziko
+   c) Aktivovať hlásič požiaru, evakuovať sa podľa plánu a kontaktovať hasičov
+   d) Ignorovať požiar, veď sa to vyrieši
+
+**Správna odpoveď: c) Aktivovať hlásič požiaru, evakuovať sa podľa plánu a kontaktovať hasičov**
+
+**9. Prečo je dôležité udržiavať poriadok a čistotu na pracovisku?**
+   a) Aby vyzeralo dobre
+   b) Aby sa zamestnanci cítili pohodlne
+   c) Zníženie rizika nehôd, úrazov a šírenia nečistôt
+   d) Aby sa ušetrili náklady na upratovanie
+
+**Správna odpoveď: c) Zníženie rizika nehôd, úrazov a šírenia nečistôt**
+
+**10. Čo je to riziko?**
+   a) Niečo, čo sa určite stane
+   b) Pravdepodobnosť a závažnosť potenciálneho nebezpečenstva
+   c) Niečo, čo je príjemné a zábavné
+   d) Niečo, čo je ľahko predvídateľné
+
+**Správna odpoveď: b) Pravdepodobnosť a závažnosť potenciálneho nebezpečenstva**
+
+Dúfame, že tento test vám pomôže overiť vaše vedomosti o BOZP. Nezabudnite, že BOZP je dôležitá pre každého!

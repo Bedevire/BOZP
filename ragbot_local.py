@@ -31,7 +31,7 @@ def init_chat():
     vectordb = Chroma(persist_directory='chromadb', embedding_function=embeddings)
 
     llm = OllamaLLM(
-        model="llama3.2:latest",
+        model="jobautomation/OpenEuroLLM-Slovak:latest",
         base_url="http://localhost:11434",
         verbose=True
     )
