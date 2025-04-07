@@ -14,4 +14,21 @@
         <input type="text" id="txtQuery" name="query" />
         <button type="button" id="btnSend" onclick="sendQuery()" >Send 3</button>
     </div>
+
+    <div>
+        <h3>Questions</h3>
+        <ol>
+            {% for question in questions %}
+            <li>
+                <p>{{ question.question }}</p>
+                <div>
+                    {% for option in question.options %}
+                    <input type="radio" name="{{ question.question }}" vaue="{{option}}">{{ option }}</input>
+                    <br />
+                    {% endfor %}
+                </div>
+            </li>
+            {% endfor %}
+        </ol>
+    </div>
 </body>

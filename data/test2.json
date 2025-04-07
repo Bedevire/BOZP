@@ -1,0 +1,102 @@
+[
+    {
+       "question":"Čo je hlavným účelom BOZP (Bezpečnosť a ochrana zdravia)?",
+       "options":[
+          "Zvýšiť výrobnú efektivitu.",
+          "Minimalizovať riziká a predchádzať úrazom a ochorením.",
+          "Znížiť náklady na poistné.",
+          "Zvýšiť imidž spoločnosti."
+       ],
+       "answer":"Minimalizovať riziká a predchádzať úrazom a ochorením."
+    },
+    {
+       "question":"Aký je účel preventívnych opatrení v BOZP?",
+       "options":[
+          "Zabezpečiť dodržiavanie zákonných povinností.",
+          "Znížiť náklady na zdravotnú starostlivosť.",
+          "Predchádzať nebezpečenstvám a rizikám.",
+          "Zlepšiť pracovné prostredie."
+       ],
+       "answer":"Predchádzať nebezpečenstvám a rizikám."
+    },
+    {
+       "question":"Čo je to riziko v kontexte BOZP?",
+       "options":[
+          "Zákonná povinnosť.",
+          "Pravdepodobnosť výskytu škodlivého javu a jeho následky.",
+          "Bezpečnostný štít.",
+          "Školenie zamestnancov."
+       ],
+       "answer":"Pravdepodobnosť výskytu škodlivého javu a jeho následky."
+    },
+    {
+       "question":"Kto je zodpovedný za BOZP na pracovisku?",
+       "options":[
+          "Len zamestnávateľ.",
+          "Len zamestnanci.",
+          "Zamestnávateľ, zástupcovia zamestnancov a zamestnanci.",
+          "Štátna inšpekcia práce."
+       ],
+       "answer":"Zamestnávateľ, zástupcovia zamestnancov a zamestnanci."
+    },
+    {
+       "question":"Čo je to pracovné prostredie?",
+       "options":[
+          "Len priestor, kde sa vykonáva práca.",
+          "Všetko, čo obklopuje zamestnanca počas výkonu práce.",
+          "Len vonkajšie priestory.",
+          "Len výrobné haly."
+       ],
+       "answer":"Všetko, čo obklopuje zamestnanca počas výkonu práce."
+    },
+    {
+       "question":"Aký je účel školení BOZP?",
+       "options":[
+          "Získanie certifikátu.",
+          "Získanie vedomostí a zručností pre bezpečnú prácu.",
+          "Získanie príspevku na dovolenku.",
+          "Získanie novej pracovnej pozície."
+       ],
+       "answer":"Získať vedomostí a zručností pre bezpečnú prácu."
+    },
+    {
+       "question":"Čo by ste mali robiť, ak zistíte nebezpečenstvo na pracovisku?",
+       "options":[
+          "Ignorovať to, ak nie je vážne.",
+          "Nahlásiť to svojmu nadriadenému alebo zástupcovi BOZP.",
+          "Snažiť sa to sami odstrániť.",
+          "Počekať, kým sa niekto iný o to postará."
+       ],
+       "answer":"Nahlásiť to svojmu nadriadenému alebo zástupcovi BOZP."
+    },
+    {
+       "question":"Aký je účel ochranných pomôcok?",
+       "options":[
+          "Zlepšiť vzhľad zamestnanca.",
+          "Znížiť náklady na zdravotnú starostlivosť.",
+          "Chrániť zdravie a predchádzať úrazom.",
+          "Zvýšiť produktivitu."
+       ],
+       "answer":"Chrániť zdravie a predchádzať úrazom."
+    },
+    {
+       "question":"Čo je to ergonomický pracovný postup?",
+       "options":[
+          "Pracovný postup, ktorý je najrýchlejší.",
+          "Pracovný postup, ktorý je najlacnejší.",
+          "Pracovný postup, ktorý je navrhnutý tak, aby minimalizoval fyzickú námahu a zlepšil pohodlie.",
+          "Pracovný postup, ktorý je najviac moderný."
+       ],
+       "answer":"Pracovný postup, ktorý je navrhnutý tak, aby minimalizoval fyzickú námahu a zlepšil pohodlie."
+    },
+    {
+       "question":"Čo by ste mali robiť v prípade úrazu na pracovisku?",
+       "options":[
+          "Zabrániť nahláseniu a minimalizovať následky.",
+          "Poskytnúť prvú pomoc, nahlásiť úraz a zabezpečiť lekársku pomoc.",
+          "Odstrániť dôkaz úrazu.",
+          "Zabrániť vyšetrovaniu príčin úrazu."
+       ],
+       "answer":"Poskytnúť prvú pomoc, nahlásiť úraz a zabezpečiť lekársku pomoc."
+    }
+ ]

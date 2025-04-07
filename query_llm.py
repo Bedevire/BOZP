@@ -1,16 +1,18 @@
 import requests
 
 
-class Query_LLM:
+class   Query_LLM:
+
+    TEST_QUERY = "Vytvor mi testovacích 10 otázok ohľadom BOZP. Ku každej vytvor 4 odpovede, pričom len jedna z nich bude správna. Použi Slovenčinu. Výstup musí byť vo formáte JSON."
 
     def __init__(self, url: str) -> None:
         self.url = url
 
     def get_llm_response(self, query: str):
-        url = f'http://localhost:11434/api/generate'
+        url = 'http://localhost:11434/api/generate'
 
         payload = {
-            "model": "llama3.2:latest",
+            "model": "jobautomation/OpenEuroLLM-Slovak:latest",
             "prompt": query,
             "stream": False
         }
