@@ -3,7 +3,7 @@ import requests
 
 class   Query_LLM:
 
-    TEST_QUERY = "Vytvor mi testovacích 10 otázok ohľadom BOZP. Ku každej vytvor 4 odpovede, pričom len jedna z nich bude správna. Použi Slovenčinu."
+    TEST_QUERY = "Vytvor mi testovacích 10 otázok ohľadom BOZP. Ku každej vytvor 4 odpovede, pričom len jedna z nich bude správna. Použi Slovenčinu. Výstup musí byť vo formáte JSON."
 
     def __init__(self, url: str) -> None:
         self.url = url

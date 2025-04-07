@@ -1,10 +1,13 @@
-#from langchain.document_loaders.recursive_url_loader import RecursiveUrlLoader
+import json
 from langchain.document_loaders.directory import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceBgeEmbeddings
 from langchain.vectorstores import Chroma
 from langchain_ollama import OllamaLLM
 from langchain.chains import ConversationalRetrievalChain
+
+
+QUESTIONS_file = 'data/test2.json'
 
 def print_hello():
     print('Hello from ragbot local')
@@ -43,6 +46,29 @@ def init_chat():
         verbose=True
     )
 
+
+def read_test_questions():
+    f = open('data/test2.json')
+    text = f.read()
+    js = json.loads(text)
+
+    return parse_questions(js)
+
+def parse_questions(questions_js):
+    questions = []
+
+    for item in questions_js:
+        question = item['question']
+        options = item['options']
+        answer = item['answer']
+
+        question = Question(question=question, options=options, answer=answer)
+        questions.append(question)
+
+    return questions
+
+
+
 def llm_answer(question:str, user_id):
     global conversation
 
@@ -56,3 +82,10 @@ def llm_answer(question:str, user_id):
     return answer
 
 
+
+class Question:
+
+    def __init__(self, question:str, options:list, answer:str):
+        self.question = question
+        self.options = options
+        self.answer = answer
